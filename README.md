@@ -1,6 +1,7 @@
 # Burger App - by Louis 🍔
 This application uses:
 - React
+- Redux
 - HTML
 - CSS
 - Firebase (real-time database, authentication and hosting)
